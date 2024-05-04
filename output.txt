@@ -1,0 +1,3 @@
+0th index er value - 10
+1st index er value - 20
+1st index er value - 20
